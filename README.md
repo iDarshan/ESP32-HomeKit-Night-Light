@@ -1,5 +1,5 @@
 # HomeKit enabled ESP32 based Night Light
-
+- Read my [blog](https://darshantechie.blogspot.com/2021/03/homemade-homekit-supported-night-light.html) to understand the purpose of this project and to watch demo video.
 - This project can be used with any ESP32 or ESP32-S2 board having WS2812 LED on the board.
 - Using this project, you can make home made night light having HomeKit support, which you can control from your iOS Home App.
 
